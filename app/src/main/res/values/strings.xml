@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slug Loop</string>
+    <string name="title_location_permission">Need Location</string>
+    <string name="text_location_permission">We need Location!</string>
+    <string name="ok">Cool</string>
+    <string name="title_activity_planner">PlannerActivity</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
