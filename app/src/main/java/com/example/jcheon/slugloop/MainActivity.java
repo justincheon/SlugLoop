@@ -188,7 +188,7 @@ public class MainActivity extends AppCompatActivity {
                 "Bookstore, Cowell & Stevenson (South)", "Crown & Merrill College", "College 9 & 10 / Health Center",
                 "East Field House", "East Remote Parking", "Family Student Housing", "High & Western Dr", "Kerr Hall",
                 "Kresge College", "Lower Campus", "Main Entrance", "Oakes College (North)", "Oakes College (South)",
-                "Parking Lot", "Rachel Carson College & Porter", "Science Hill", "The Farm / Village", "Tosca Terrace"
+                "Rachel Carson College & Porter", "Science Hill", "The Farm / Village", "Tosca Terrace"
         };
 
         s = (Spinner) findViewById(R.id.spinner);
